@@ -1,2 +1,2 @@
-# ISYA
-Inverse Shunting Yard Algorithm
+
+### Inverse Shunting Yard Algorithm
