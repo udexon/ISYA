@@ -7,7 +7,7 @@ July 2019
 
 1. Programming languages have proliferated over the years. Programmers today typically need to master at least half a dozen of programming languages to make a living, leading to tremendous diminishing returns, not least due to extraneous efforts in integrating software components written in multiple Programming Languages. 
 
-2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term *Inverse Shunting Yard Algorithm (ISYA)* as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
+2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term <u>*Inverse Shunting Yard Algorithm (ISYA)*</u> as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
 
 3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python , Java, Kotlin are also available. 
 
@@ -32,7 +32,7 @@ To summarize, the principle of homoiconicity implies that *artificial intelligen
 
 -- How many programmers know how to write a program to solve the following algebraic equation?
 
-5 x + 3 x = 8
+<p align="center"> 5 x + 3 x = 8 </p>
 
 I shall be forgiven for choosing these lucky numbers as a Chinese Malaysian myself. 
 
