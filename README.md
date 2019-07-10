@@ -5,26 +5,30 @@ Dr. Ng Liang Shing
 
 July 2019
 
-Programming Languages have proliferated over the years. Programmers today typically need to master at least half a dozen of Programming Languages to make a living, leading to tremendous diminishing returns, not least due to extraneous efforts in integrating software components written in multiple Programming Languages. 
+1. Programming languages have proliferated over the years. Programmers today typically need to master at least half a dozen of programming languages to make a living, leading to tremendous diminishing returns, not least due to extraneous efforts in integrating software components written in multiple Programming Languages. 
 
-Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term Inverse Shunting Yard Algorithm (ISYA) as a generalization of translating reverse Polish notation into a host (high level, "third generation") programming language, which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
+2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term *Inverse Shunting Yard Algorithm (ISYA)* as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
 
-I have published ISYA in JavaScript on ... and made PHP ISYA available upon request. Prototypes in Python , Java, Kotlin are also available. 
+3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python , Java, Kotlin are also available. 
 
-ISYA reduces the effort of an individual programmer to learn and master a new Programming Language effectively down to zero, or writing the initial ISYA engine if it has not been done already.
+ <img src="https://github.com/udexon/ISYA/blob/master/isya-kotlin.png" alt="ISYA Kotlin"  width="600"> 
 
-My survey shows that Forth implementations are also available in Rust, Go, Haskell and LISP. I believe the list is not exhaustive. 
+4. ISYA reduces the effort of an individual programmer to learn and master a new Programming Language effectively down to zero, or writing the initial ISYA engine if it has not been done already.
 
-I believe Writing ISYA for a new Programming Language can be accomplished by a competent student who has completed one semester of Programming Language course. 
+5. My survey shows that Forth implementations are also available in Rust, Go, Haskell and LISP. I believe the list is not exhaustive. 
 
-As such, I believe ISYA will lead to a Revolution in teaching and learning of Programming Languages, and beyond that, mathematics.
+6. I believe Writing ISYA for a new Programming Language can be accomplished by a competent student who has completed one semester of Programming Language course. 
+
+7. As such, I believe ISYA will lead to a Revolution in teaching and learning of Programming Languages, and beyond that, mathematics.
 
 
-For many years, progress in artificial intelligence seems to have stuck in a "perpetual" last mile, with Google's Alpha Go and descendants being the last round of hot air. 
+8. For many years, progress in artificial intelligence seems to have stuck in a "perpetual" last mile, with Google's Alpha Go and descendants being the last round of hot air. 
 
-Perhaps homoiconicity, a unique property exhibited by the reverse Polish notation, is the last missing piece to solve the puzzle of artificial intelligence. To summarize, the principle of homoiconicity implies that artificial intelligence needs to be written in a programming language that can be used to analyze itself. 
+9. Perhaps **homoiconicity**, a unique property exhibited by the reverse Polish notation, is the last missing piece to solve the puzzle of artificial intelligence. 
 
-While not attempting to disclose the complete explanation in a short presentation like this, I shall hint upon the idea with a glaring example:
+To summarize, the principle of homoiconicity implies that *artificial intelligence needs to be written in a programming language that can be used to analyze itself.* 
+
+10. While not attempting to disclose the complete explanation in a short presentation like this, I shall hint upon the idea with a glaring example:
 
 -- How many programmers know how to write a program to solve the following algebraic equation?
 
@@ -32,13 +36,13 @@ While not attempting to disclose the complete explanation in a short presentatio
 
 I shall be forgiven for choosing these lucky numbers as a Chinese Malaysian myself. 
 
-To cut the long story short, solution of the above requires what is known as computer algebra system, whose pioneering work began in the 1960s, but was not made publicly available until Maxima was open sourced. 
+11. To cut the long story short, solution of the above requires what is known as computer algebra system, whose pioneering work began in the 1960s, but was not made publicly available until Maxima was open sourced. 
 
 Three further important efforts to popularize computer algebra systems were made subsequently in SageMath, Python SymPy and JavaScript Algebrite. 
 
 Although SageMath, Python SymPy and JavaScript Algebrite represent important effort to popularize CAS, the programming languages used are not homoiconic -- you cannot use that programming language to analyze itself. 
 
-To illustrate, see: [Computer Algebra System using Forth like Reverse Polish Notation]( https://github.com/udexon/SMASH/blob/master/CASFRPN.md)
+12. To illustrate, see: [Computer Algebra System using Forth like Reverse Polish Notation]( https://github.com/udexon/SMASH/blob/master/CASFRPN.md)
 
 In summary, reverse Polish notation has an elegant solution for algebraic equations, thus serving as a foundation to construct and analyze mathematical objects.
 
