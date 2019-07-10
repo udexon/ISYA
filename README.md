@@ -8,7 +8,9 @@ July 2019
 
 2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term ***Inverse Shunting Yard Algorithm (ISYA)*** as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
 
-3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python , Java, Kotlin are also available. 
+Dijkstra's Shunting Yard Algorithm (DSYA) might be regarded as the common ancestor of subsequent programming languages.
+
+3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python, Java, Kotlin are also available. 
 
  <img src="https://github.com/udexon/ISYA/blob/master/isya-kotlin.png" alt="ISYA Kotlin"  width="600"> 
 
