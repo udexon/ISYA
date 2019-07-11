@@ -57,7 +57,7 @@ To summarize, the principle of homoiconicity implies that *artificial intelligen
 
 <p align="center"> 5 x + 3 x = 8 </p>
 
-I shall be forgiven for choosing these lucky numbers as a Chinese Malaysian myself. 
+(I shall be forgiven for choosing these lucky numbers as a Chinese Malaysian myself.) 
 
 11. To cut the long story short, solution of the above requires what is known as computer algebra system, whose pioneering work began in the 1960s, but was not made publicly available until Maxima was open sourced. 
 
