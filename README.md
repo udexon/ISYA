@@ -6,7 +6,9 @@ July 2019
 
 1. [Dijkstra's Shunting Yard Algorithm (DSYA)](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) might be regarded as the common ancestor of subsequent programming languages. It was central to the design of ALGOL, which influenced all other modern programming languages.
 
-Programming languages have proliferated over the years, which created an undesireable side effect.
+It laymen's terms, it transforms infix notation `1 + 2` to Reverse Polish Notation `1 2 +` which is better suited for the stack machine architecture used by the computers during the 1960s. 
+
+Programming languages have proliferated over the years, which created many undesireable side effects.
 
 Programmers today typically need to master at least half a dozen of programming languages to make a living, leading to tremendous diminishing returns, not least due to extraneous efforts in integrating software components written in multiple Programming Languages. 
 
