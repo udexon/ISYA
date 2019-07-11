@@ -12,7 +12,7 @@ Programming languages have proliferated over the years, which unexpectedly and u
 
 e.g. Programmers today typically need to master at least half a dozen of programming languages to make a living, leading to tremendous diminishing returns, not least due to extraneous efforts in integrating software components written in multiple programming languages. 
 
-***The Inverse Shunting Yard Algorithm described in this presentation will provide a method to create a universal script that can unify all know programming langauges.***
+***The Inverse Shunting Yard Algorithm (ISYA) described in this presentation will provide a method to create a universal script that can unify all know programming langauges.***
 
 2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term ***Inverse Shunting Yard Algorithm (ISYA)*** as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
 
