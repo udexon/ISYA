@@ -4,7 +4,7 @@
 Dr. Ng Liang Shing <br>
 July 2019
 
-1. Dijkstra's Shunting Yard Algorithm (DSYA) might be regarded as the common ancestor of subsequent programming languages. It was central to the design of ALGOL, which influenced all other modern programming languages.
+1. [Dijkstra's Shunting Yard Algorithm (DSYA)](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) might be regarded as the common ancestor of subsequent programming languages. It was central to the design of ALGOL, which influenced all other modern programming languages.
 
 Programming languages have proliferated over the years, which created an undesireable side effect.
 
@@ -13,7 +13,7 @@ Programmers today typically need to master at least half a dozen of programming 
 2. Although the Forth programming language has been implemented in many host Programming Languages in the past, I believe I was the first to coin the term ***Inverse Shunting Yard Algorithm (ISYA)*** as a generalization of *translating reverse Polish notation into a host (high level, "third generation") programming language,* which is effectively the inverse of Dijkstra's now legendary Shunting Yard Algorithm (DSYA).
 
 
-3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python, Java, Kotlin are also available. 
+3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) (Figures 1 and 2) and made PHP ISYA available upon request. Prototypes in Python, Java, Kotlin (Figure 3) are also available. 
 
 <p align="center"><img src="https://github.com/udexon/ISYA/blob/master/smash-top.png" alt="ISYA Kotlin"  width="600"> 
 <br>Figure 1</p>
