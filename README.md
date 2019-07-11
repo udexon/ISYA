@@ -55,6 +55,10 @@ Although SageMath, Python SymPy and JavaScript Algebrite represent important eff
 
 12. To illustrate, see: [Computer Algebra System using Forth like Reverse Polish Notation]( https://github.com/udexon/SMASH/blob/master/CASFRPN.md)
 
+
+<p align="center"> <img src="https://github.com/udexon/ISYA/blob/master/gltf-home.png" alt="ISYA Kotlin"  width="600"> 
+<br>Figure 4</p>
+
 In summary, reverse Polish notation has an elegant solution for algebraic equations, thus serving as a foundation to construct and analyze mathematical objects.
 
 ISYA RPN has many other implications such as free software distributed ownership of technology, untraceable anonymous messaging and payment transactions ...., we end the presentation here, to continue on other topics next time. Stack machine shell.
