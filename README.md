@@ -15,7 +15,14 @@ Programmers today typically need to master at least half a dozen of programming 
 
 3. I have published ISYA in JavaScript ([Stack Machine Shell for Ajax](http://5gl.epizy.com/nsm/fgl.html?i=3)) and made PHP ISYA available upon request. Prototypes in Python, Java, Kotlin are also available. 
 
- <img src="https://github.com/udexon/ISYA/blob/master/isya-kotlin.png" alt="ISYA Kotlin"  width="600"> 
+<p align="center"><img src="https://github.com/udexon/ISYA/blob/master/smash-top.png" alt="ISYA Kotlin"  width="600"> 
+<br>Figure 1</p>
+
+<p align="center"><img src="https://github.com/udexon/ISYA/blob/master/smash-output.png" alt="ISYA Kotlin"  width="600"> 
+<br>Figure 2</p>
+
+<p align="center"> <img src="https://github.com/udexon/ISYA/blob/master/isya-kotlin.png" alt="ISYA Kotlin"  width="600"> 
+<br>Figure 3</p>
 
 4. ISYA reduces the effort of an individual programmer to learn and master a new Programming Language effectively down to zero, or writing the initial ISYA engine if it has not been done already.
 
