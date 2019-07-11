@@ -34,7 +34,9 @@ Briefly, the steps include parsing a list of tokens in the Reverse Polish Notati
 <br>Figure 4: Reverse Polish Notation expression "5 6 + 7 +" entered at top of the screen. The results 18 is shown at the bottom.</p>
 
 
-4. ISYA reduces the effort of an individual programmer to learn and master a new Programming Language effectively down to zero, or writing the initial ISYA engine if it has not been done already.
+4. ISYA reduces the effort of an individual programmer to learn and master a new programming language effectively down to zero, or writing the initial ISYA engine if it has not been done already.
+
+My initial motivation of developing ISYA was to find a programming language that I can use for writing programs on a mobile phone. It effectively became a full stack programming language after I wrote the front end JavaScript and back end PHP engine for ISYA. I have called it 5GL, the Fifth Generation Grah Language, in tribute to Forth and graph theory. 
 
 5. My survey shows that Forth implementations are also available in Rust, Go, Haskell and LISP. I believe the list is not exhaustive. 
 
