@@ -69,9 +69,16 @@ Although SageMath, Python SymPy and JavaScript Algebrite represent important eff
 
 In summary, reverse Polish notation has an elegant solution for algebraic equations, thus serving as a foundation to construct and analyze mathematical objects.
 
-ISYA RPN has many other implications such as free software distributed ownership of technology, untraceable anonymous messaging and payment transactions ...., we end the presentation here, to continue on other topics next time. Stack machine shell.
+13. Just like other "simple ideas" such as Linux, the World Wide Web and Bitcoin, which all have a humble beginning but have changed the world, I believe ISYA (RPN) has the potential to create another revolution.
 
-Programming, mathematics, AI. 
+14. Besides the applications mentioned above, ISYA RPN has many other implications such as: 
+- free software distributed ownership of technology (Internet services like Torrent that are operated and owned by everyone), 
+- [stack machine shell (SMASH)](https://github.com/udexon/SMASH), 
+- [untraceable anonymous messaging and payment transactions ](https://github.com/udexon/DatongToken). 
+
+
+
+
 
 
 RPN allows AI code to be analyze homoiconically piecewise, from high level to low level e.g. distributive law code. Because RPN can also work at high level, hence can analyze high level programming languages!!
