@@ -40,9 +40,9 @@ My initial motivation of developing ISYA was to find a programming language that
 
 5. My survey shows that Forth implementations are also available in Rust, Go, Haskell and LISP. I believe the list is not exhaustive. 
 
-6. I believe Writing ISYA for a new Programming Language can be accomplished by a competent student who has completed one semester of Programming Language course. 
+6. I believe writing ISYA engine for a new programming language can be accomplished by a competent student who has completed one semester of programming language course. 
 
-7. As such, I believe ISYA will lead to a Revolution in teaching and learning of Programming Languages, and beyond that, mathematics.
+7. As such, I believe ISYA will lead to a revolution in teaching and learning of programming languages, and beyond that, mathematics.
 
 
 8. For many years, progress in artificial intelligence seems to have stuck in a "perpetual" last mile, with Google's Alpha Go and descendants being the last round of hot air. 
