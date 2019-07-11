@@ -75,7 +75,7 @@ RPN allows AI code to be analyze homoiconically piecewise, from high level to lo
 
 Just like other "simple ideas" such as Linux, the World Wide Web and Bitcoin, which all have a humble beginning but have changed the world, I believe ISYA (RPN) has the potential to create another revolution.
 
-14. Besides the applications mentioned above, ISYA / RPN has many other implications, which we leave until next time:
+14. Besides the applications mentioned above, ISYA / RPN has many other implications, which we will leave until next time:
 - free software distributed ownership of technology (Internet services like Torrent that are operated and owned by everyone), 
 - [stack machine shell (SMASH)](https://github.com/udexon/SMASH), 
 - [untraceable anonymous messaging and payment transactions ](https://github.com/udexon/DatongToken). 
