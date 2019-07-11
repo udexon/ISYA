@@ -28,7 +28,7 @@ Briefly, the steps include parsing a list of tokens in the Reverse Polish Notati
 <br>Figure 2</p>
 
 <p align="center"> <img src="https://github.com/udexon/ISYA/blob/master/isya-kotlin.png" alt="ISYA Kotlin"  width="600"> 
-<br>Figure 3</p>
+<br>Figure 3: RPN is used to invoke and access OpenCV image processing code on Android, besides the mandatory arithmetic operations</p>
 
 <p align="center"> <img src="https://github.com/udexon/ISYA/blob/master/kotlin-5gl.png" alt="ISYA Kotlin"  width="200"> 
 <br>Figure 4: Reverse Polish Notation expression "5 6 + 7 +" entered at top of the screen. The results 18 is shown at the bottom.</p>
