@@ -81,7 +81,7 @@ Just like other "simple ideas" such as Linux, the World Wide Web and Bitcoin, wh
 
 14. Besides the applications mentioned above, ISYA / RPN has many other implications, which we will leave until next time:
 - free software distributed ownership of technology (Internet services like Torrent that are operated and owned by everyone), 
-- a unified distributed virtual world, operated and owned by everyone, as a robotics and artificial intelligence research platform, and for virtual reality E-commerce
+- a unified distributed virtual world, operated and owned by everyone, as a robotics and artificial intelligence research platform, and for virtual reality E-commerce, social networks and gaming
 - [stack machine shell (SMASH)](https://github.com/udexon/SMASH), 
 - [untraceable anonymous messaging and payment transactions ](https://github.com/udexon/DatongToken). 
 
